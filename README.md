@@ -3,7 +3,7 @@ Creating a VPC Infrastructure with AWS Cloud Formation
 
 ## Pre-requisite
 - This project assume your have already setup you aws CLI.
-You can use this resource for setting up your AWS CLI [Setup AWS CLI ] (https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html)
+You can use this resource for setting up your AWS CLI [Setup AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html)
 
 ## Nice to have
 - Familiarity with basic Linux commands
